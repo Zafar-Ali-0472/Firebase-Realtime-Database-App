@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798169182393",
+    "project_id": "bsce20040-lab12-realtime-db",
+    "storage_bucket": "bsce20040-lab12-realtime-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798169182393:android:2e9d969b977c63e35a2b68",
+        "android_client_info": {
+          "package_name": "com.example.bsce20040_lab12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12UzECs0yraRSonBtZqgBFTkU_zF7bXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
